@@ -2,7 +2,7 @@
 
 Demo application for the [Eligible API](https://eligibleapi.com/rest-api-v1). 
 
-Eligible makes it easy for healthcare providers to get instant answers about what services are covered for their patients.  Instantly ping over 700 health insurance companies.
+Eligible powers healthcare applications to get instant answers about what services are covered for their patients.
 
 This is what a simple application built for a provider might look like, with an emphasis on being able to quickly check what services (including chiropractic, massage therapy, physican office visit, emergency room, etc) are covered for a patient using the Eligible API. 
 
