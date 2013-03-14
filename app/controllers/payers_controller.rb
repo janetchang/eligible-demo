@@ -10,5 +10,4 @@ class PayersController < ApplicationController
 
     head 200
   end
-
 end
